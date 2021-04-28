@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.362" height="23.771" viewBox="0 0 24.362 23.771">
+  <g id="_1F3A6" data-name="1F3A6" transform="translate(-11.5 -12.521)">
+    <g id="color" transform="translate(12 13.021)">
+      <path id="Контур_853" data-name="Контур 853" d="M46.85,40.986l5.131,4.183a.733.733,0,0,0,1.2-.568V32.374a.733.733,0,0,0-1.2-.568l-5.273,4.3" transform="translate(-29.816 -22.578)" fill="#d0cfce"/>
+      <circle id="Эллипс_62" data-name="Эллипс 62" cx="3.478" cy="3.478" r="3.478" transform="translate(0.01)" fill="#d0cfce"/>
+      <circle id="Эллипс_63" data-name="Эллипс 63" cx="3.478" cy="3.478" r="3.478" transform="translate(9.937)" fill="#d0cfce"/>
+      <path id="Контур_854" data-name="Контур 854" d="M27.563,45.344H13.471A1.471,1.471,0,0,1,12,43.873v-10.4A1.471,1.471,0,0,1,13.471,32H27.563a1.471,1.471,0,0,1,1.471,1.471v10.4A1.471,1.471,0,0,1,27.563,45.344Z" transform="translate(-12 -22.763)" fill="#d0cfce"/>
+    </g>
+    <g id="line" transform="translate(12 13.021)">
+      <path id="Контур_855" data-name="Контур 855" d="M46.85,40.986l5.131,4.183a.733.733,0,0,0,1.2-.568V32.374a.733.733,0,0,0-1.2-.568l-5.273,4.3" transform="translate(-29.816 -22.578)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <circle id="Эллипс_64" data-name="Эллипс 64" cx="3.478" cy="3.478" r="3.478" transform="translate(0.01)" fill="none" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <circle id="Эллипс_65" data-name="Эллипс 65" cx="3.478" cy="3.478" r="3.478" transform="translate(9.937)" fill="none" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Контур_856" data-name="Контур 856" d="M27.563,45.344H13.471A1.471,1.471,0,0,1,12,43.873v-10.4A1.471,1.471,0,0,1,13.471,32H27.563a1.471,1.471,0,0,1,1.471,1.471v10.4A1.471,1.471,0,0,1,27.563,45.344Z" transform="translate(-12 -22.763)" fill="none" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

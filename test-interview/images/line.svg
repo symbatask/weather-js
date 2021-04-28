@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="37.316" height="38.375" viewBox="0 0 37.316 38.375">
+  <g id="line" transform="translate(0.703 0.703)">
+    <path id="Контур_909" data-name="Контур 909" d="M34.828,12.777q.386.254.751.548c5.107,4.116,5.093,12.607-.031,18.964S22.13,40.463,17.023,36.347a9.672,9.672,0,0,1-1.1-1.039" transform="translate(-7.204 -5.367)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+    <ellipse id="Эллипс_71" data-name="Эллипс 71" cx="14.709" cy="11.206" rx="14.709" ry="11.206" transform="matrix(0.628, -0.779, 0.779, 0.628, 0, 22.904)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Линия_103" data-name="Линия 103" x2="1.664" y2="1.406" transform="translate(26.68 25.516)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Линия_104" data-name="Линия 104" x2="1.468" y2="1.577" transform="translate(24.928 27.414)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Линия_105" data-name="Линия 105" x2="1.205" y2="1.683" transform="translate(23.075 28.956)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Линия_106" data-name="Линия 106" x2="0.949" y2="1.694" transform="translate(21.041 30.313)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Линия_107" data-name="Линия 107" x2="1.768" y2="1.223" transform="translate(28.029 23.621)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Контур_910" data-name="Контур 910" d="M20.652,33.02c.037-.117.308-1.122.345-1.239,3,.053,3.146-.046,3.591-1.524.842-2.791,1.087-3.29,1.928-6.081.3-.979.243-1.193-1.16-1.46l-.855-.158c.032-.1.224-1.051.256-1.154a47.749,47.749,0,0,0,6.188-.4L28.159,30.63c-.435,1.5-.381,1.623,2.5,2.179-.033.119-.3,1.124-.337,1.243Z" transform="translate(-9.537 -9.426)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

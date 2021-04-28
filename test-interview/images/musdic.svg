@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.03" height="21.461" viewBox="0 0 18.03 21.461">
+  <g id="_1F3B5" data-name="1F3B5" transform="translate(-14.469 -12.375)">
+    <g id="color" transform="translate(14.969 12.875)">
+      <path id="Контур_622" data-name="Контур 622" d="M26.206,17.444l11.63-2.419-.032-2.15L26.1,15.48Z" transform="translate(-20.985 -12.875)" fill="#3f3f3f"/>
+      <circle id="Эллипс_43" data-name="Эллипс 43" cx="2.661" cy="2.661" r="2.661" transform="translate(0 15.14)" fill="#3f3f3f"/>
+      <circle id="Эллипс_44" data-name="Эллипс 44" cx="2.661" cy="2.661" r="2.661" transform="translate(11.701 12.576)" fill="#3f3f3f"/>
+    </g>
+    <g id="line" transform="translate(14.969 12.875)">
+      <path id="Контур_623" data-name="Контур 623" d="M37.836,15.025l-11.7,2.607L26.1,15.48l11.7-2.605Z" transform="translate(-20.985 -12.875)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <circle id="Эллипс_45" data-name="Эллипс 45" cx="2.661" cy="2.661" r="2.661" transform="translate(0 15.14)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Линия_77" data-name="Линия 77" x2="0.201" y2="15.196" transform="translate(5.12 2.605)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <circle id="Эллипс_46" data-name="Эллипс 46" cx="2.661" cy="2.661" r="2.661" transform="translate(11.702 12.576)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Линия_78" data-name="Линия 78" x2="0.201" y2="15.196" transform="translate(16.822 0.041)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

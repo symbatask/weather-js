@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27.802" height="23.754" viewBox="0 0 27.802 23.754">
+  <g id="_1F6CE" data-name="1F6CE" transform="translate(-14.312 -11.911)">
+    <g id="color" transform="translate(14.5 12.1)">
+      <path id="Контур_200" data-name="Контур 200" d="M29.733,16.8A11.013,11.013,0,0,0,18.7,27.833h22A10.96,10.96,0,0,0,29.733,16.8Z" transform="translate(-16.082 -13.87)" fill="#f1b31c" stroke="#f1b31c" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Контур_201" data-name="Контур 201" d="M36.86,14.282a1.1,1.1,0,0,0,1.06-1.122,1.092,1.092,0,0,0-1.06-1.06,1.1,1.1,0,0,0-1.06,1.122,1.051,1.051,0,0,0,1.06,1.06Z" transform="translate(-22.523 -12.1)" fill="#f1b31c"/>
+      <path id="Контур_202" data-name="Контур 202" d="M36.059,40.282a1.1,1.1,0,0,0,1.06-1.122,1.092,1.092,0,0,0-1.06-1.06A1.1,1.1,0,0,0,35,39.222a1.014,1.014,0,0,0,1.06,1.06Z" transform="translate(-22.222 -21.894)" fill="#f1b31c"/>
+      <path id="Контур_203" data-name="Контур 203" d="M40.235,21.87c.436-.062.81.312,1.184.5a2.5,2.5,0,0,1,1,.81c.623,1,2.244.062,1.621-.935a4.867,4.867,0,0,0-1.683-1.5A3.8,3.8,0,0,0,40.235,20a.935.935,0,0,0,0,1.87Z" transform="translate(-23.842 -15.076)" fill="#fff"/>
+      <line id="Линия_13" data-name="Линия 13" x2="26.179" transform="translate(0 22.065)" fill="none" stroke="#6a462f" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Линия_14" data-name="Линия 14" x2="22.813" transform="translate(2.119 19.696)" fill="none" stroke="#6a462f" stroke-miterlimit="10" stroke-width="2.356"/>
+      <line id="Линия_15" data-name="Линия 15" x2="25.68" transform="translate(1.06 14.897)" fill="none" stroke="#f1b31c" stroke-miterlimit="10" stroke-width="2.356"/>
+    </g>
+    <g id="line" transform="translate(14.812 12.411)">
+      <path id="Контур_204" data-name="Контур 204" d="M19.1,26.632a11,11,0,1,1,22-.062v.062" transform="translate(-16.544 -13.73)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Контур_205" data-name="Контур 205" d="M16.659,34.3H40.968a1.092,1.092,0,0,1,1.06,1.06v.062a1.092,1.092,0,0,1-1.06,1.06H16.659a1.092,1.092,0,0,1-1.06-1.06v-.062a1.014,1.014,0,0,1,1.06-1.06Z" transform="translate(-15.225 -20.773)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="1"/>
+      <rect id="Прямоугольник_33" data-name="Прямоугольник 33" width="2.182" height="1.496" transform="translate(12.466 16.082)" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1"/>
+      <rect id="Прямоугольник_34" data-name="Прямоугольник 34" width="23.499" height="2.182" transform="translate(1.496 18.263)" fill="none" stroke="#000" stroke-linecap="square" stroke-linejoin="round" stroke-width="1"/>
+      <rect id="Прямоугольник_35" data-name="Прямоугольник 35" width="26.428" height="2.182" transform="translate(0 20.507)" fill="none" stroke="#000" stroke-linecap="square" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Контур_206" data-name="Контур 206" d="M35,14.1a1.465,1.465,0,0,1,2.93-.062h0" transform="translate(-22.534 -12.599)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

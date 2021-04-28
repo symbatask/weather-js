@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15.196" height="26.679" viewBox="0 0 15.196 26.679">
+  <g id="_1F5FF" data-name="1F5FF" transform="translate(-19.243 -10.3)">
+    <g id="color" transform="translate(19.751 10.8)">
+      <path id="Контур_715" data-name="Контур 715" d="M33.939,36.117V11.252a.452.452,0,0,0-.452-.452H26.879a.452.452,0,0,0-.3.116L23.4,13.779a.452.452,0,0,0-.059.607l.669.892a.452.452,0,0,1,.043.473l-4.25,8.5a.452.452,0,0,0,.4.654h2.154a.452.452,0,0,1,.4.654l-1.433,2.867a.452.452,0,0,0-.048.2v3.058a.452.452,0,0,0,.452.452h4.521a.452.452,0,0,1,.452.452v3.436a.452.452,0,0,0,.452.452h6.329C33.737,36.479,33.939,36.367,33.939,36.117Z" transform="translate(-19.751 -10.8)" fill="#d0cfce"/>
+      <path id="Контур_716" data-name="Контур 716" d="M41.138,31.638V38.51h.84" transform="translate(-30.002 -20.788)" fill="#d0cfce"/>
+    </g>
+    <g id="line" transform="translate(19.751 10.8)">
+      <path id="Контур_717" data-name="Контур 717" d="M45.264,60.483" transform="translate(-31.98 -34.614)" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Контур_718" data-name="Контур 718" d="M33.939,36.117V11.252a.452.452,0,0,0-.452-.452H26.879a.452.452,0,0,0-.3.116L23.4,13.779a.452.452,0,0,0-.059.607l.669.892a.452.452,0,0,1,.043.473l-4.25,8.5a.452.452,0,0,0,.4.654h2.154a.452.452,0,0,1,.4.654l-1.433,2.867a.452.452,0,0,0-.048.2v3.058a.452.452,0,0,0,.452.452h4.521a.452.452,0,0,1,.452.452v3.436a.452.452,0,0,0,.452.452h6.329C33.737,36.479,33.939,36.367,33.939,36.117Z" transform="translate(-19.751 -10.8)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Линия_86" data-name="Линия 86" x2="2.893" transform="translate(1.53 17.722)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Контур_719" data-name="Контур 719" d="M41.138,31.638V38.51h.84" transform="translate(-30.002 -20.788)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Контур_720" data-name="Контур 720" d="M29.347,23.378l3.978-3.392h-2.19" transform="translate(-24.35 -15.203)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

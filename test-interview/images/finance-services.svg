@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17" height="19" viewBox="0 0 17 19">
+  <g id="_1F3E6" data-name="1F3E6" transform="translate(-13.75 -11.5)">
+    <g id="color" transform="translate(14 12)">
+      <rect id="Прямоугольник_61" data-name="Прямоугольник 61" width="15" height="13" transform="translate(1.25 5)" fill="#9b9b9a"/>
+      <rect id="Прямоугольник_62" data-name="Прямоугольник 62" width="16" height="1" transform="translate(0.25 4)" fill="#d0cfce"/>
+      <path id="Контур_345" data-name="Контур 345" d="M19.5,26h.77V38.75H19.5" transform="translate(-17.438 -20.75)" fill="#fff"/>
+      <path id="Контур_346" data-name="Контур 346" d="M24.933,26H25.7V38.75h-.764" transform="translate(-20.833 -20.75)" fill="#fff"/>
+      <path id="Контур_347" data-name="Контур 347" d="M45.786,38.75h-.768V26h.768" transform="translate(-33.386 -20.75)" fill="#fff"/>
+      <path id="Контур_348" data-name="Контур 348" d="M51.239,38.75h-.757V26h.757" transform="translate(-36.801 -20.75)" fill="#fff"/>
+      <path id="Контур_349" data-name="Контур 349" d="M25.375,12,19,15.75H31.75Z" transform="translate(-17.125 -12)" fill="#d0cfce"/>
+      <rect id="Прямоугольник_63" data-name="Прямоугольник 63" width="3.375" height="3.75" transform="translate(6.563 14.25)" fill="#92d3f5"/>
+      <ellipse id="Эллипс_20" data-name="Эллипс 20" cx="2" cy="1.5" rx="2" ry="1.5" transform="translate(6.25 7)" fill="#fcea2b"/>
+      <path id="Контур_350" data-name="Контур 350" d="M35.651,33.846a.382.382,0,0,0-.385-.25h0a.321.321,0,1,0,0,.626h-.008a.321.321,0,1,1,0,.626h0a.382.382,0,0,1-.385-.25" transform="translate(-27.046 -25.497)" fill="none" stroke="#f4aa41" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Линия_35" data-name="Линия 35" y1="0.298" transform="translate(8.216 7.8)" fill="none" stroke="#f4aa41" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Линия_36" data-name="Линия 36" y1="0.298" transform="translate(8.216 9.352)" fill="none" stroke="#f4aa41" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+    <g id="line" transform="translate(14 12)">
+      <rect id="Прямоугольник_64" data-name="Прямоугольник 64" width="15" height="13" transform="translate(1.25 5)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <rect id="Прямоугольник_65" data-name="Прямоугольник 65" width="16" height="1" transform="translate(0.25 4)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Контур_351" data-name="Контур 351" d="M19.5,26h1.125V38.75H19.5" transform="translate(-17.438 -20.75)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Контур_352" data-name="Контур 352" d="M24.933,26h1.125V38.75H24.933" transform="translate(-20.833 -20.75)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Контур_353" data-name="Контур 353" d="M45.192,38.75H44.067V26h1.125" transform="translate(-32.792 -20.75)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Контур_354" data-name="Контур 354" d="M50.625,38.75H49.5V26h1.125" transform="translate(-36.188 -20.75)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Контур_355" data-name="Контур 355" d="M25.375,12,19,15.656H31.75Z" transform="translate(-17.125 -12)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <rect id="Прямоугольник_66" data-name="Прямоугольник 66" width="3.375" height="3.75" transform="translate(6.563 14.25)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Линия_37" data-name="Линия 37" y1="4" transform="translate(8.25 14)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <ellipse id="Эллипс_21" data-name="Эллипс 21" cx="2" cy="1.5" rx="2" ry="1.5" transform="translate(6.25 7)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Контур_356" data-name="Контур 356" d="M35.651,33.846a.382.382,0,0,0-.385-.25h0a.321.321,0,1,0,0,.626h-.008a.321.321,0,1,1,0,.626h0a.382.382,0,0,1-.385-.25" transform="translate(-27.046 -25.497)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Линия_38" data-name="Линия 38" y1="0.298" transform="translate(8.216 7.8)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Линия_39" data-name="Линия 39" y1="0.298" transform="translate(8.216 9.352)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.049" height="20" viewBox="0 0 20.049 20">
+  <g id="_1F5D3" data-name="1F5D3" transform="translate(-11.482 -11.714)">
+    <g id="color" transform="translate(11.973 12.229)">
+      <path id="Контур_991" data-name="Контур 991" d="M11.973,28.13l.049,12.622,12.541-.033L31,35.807l.049-7.726Z" transform="translate(-11.973 -21.8)" fill="#fff"/>
+      <path id="Контур_992" data-name="Контур 992" d="M12.142,18.557H31.076v-6.3H12.142Zm15.023-4.516h.012a1.25,1.25,0,0,1-.012,2.5h-.012a1.25,1.25,0,0,1,.012-2.5Zm-12.013.337a1.279,1.279,0,0,1,.9-.368h.013a1.286,1.286,0,0,1-.012,2.572h-.013a1.286,1.286,0,0,1-.889-2.2Z" transform="translate(-12.075 -12.252)" fill="#ea5a47"/>
+      <path id="Контур_993" data-name="Контур 993" d="M48.036,49.038H42.95v1.778a.4.4,0,0,1-.4.4.392.392,0,0,1-.385-.34v2.153h.46Z" transform="translate(-30.185 -34.44)" fill="#d0cfce"/>
+    </g>
+    <g id="line" transform="translate(11.982 12.214)">
+      <circle id="Эллипс_74" data-name="Эллипс 74" cx="1.191" cy="1.191" r="1.191" transform="translate(2.767 4.245) rotate(-89.45)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <rect id="Прямоугольник_107" data-name="Прямоугольник 107" width="19.049" height="6.35" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <circle id="Эллипс_75" data-name="Эллипс 75" cx="1.191" cy="1.191" r="1.191" transform="translate(13.879 4.245) rotate(-89.45)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Контур_994" data-name="Контур 994" d="M12,28.092v12.7l12.564,0,6.485-4.781V28.092" transform="translate(-11.997 -21.791)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <circle id="Эллипс_76" data-name="Эллипс 76" cx="0.794" cy="0.794" r="0.794" transform="translate(1.668 9.302) rotate(-89.45)"/>
+      <circle id="Эллипс_77" data-name="Эллипс 77" cx="0.794" cy="0.794" r="0.794" transform="translate(4.049 9.302) rotate(-89.45)"/>
+      <circle id="Эллипс_78" data-name="Эллипс 78" cx="0.794" cy="0.794" r="0.794" transform="translate(6.43 9.302) rotate(-89.45)"/>
+      <circle id="Эллипс_79" data-name="Эллипс 79" cx="0.794" cy="0.794" r="0.794" transform="translate(8.811 9.302) rotate(-89.45)"/>
+      <circle id="Эллипс_80" data-name="Эллипс 80" cx="0.794" cy="0.794" r="0.794" transform="translate(1.668 11.683) rotate(-89.45)"/>
+      <circle id="Эллипс_81" data-name="Эллипс 81" cx="0.794" cy="0.794" r="0.794" transform="translate(4.049 11.683) rotate(-89.45)"/>
+      <circle id="Эллипс_82" data-name="Эллипс 82" cx="0.794" cy="0.794" r="0.794" transform="translate(6.43 11.683) rotate(-89.45)"/>
+      <circle id="Эллипс_83" data-name="Эллипс 83" cx="0.794" cy="0.794" r="0.794" transform="translate(8.812 11.683) rotate(-89.45)"/>
+      <circle id="Эллипс_84" data-name="Эллипс 84" cx="0.794" cy="0.794" r="0.794" transform="translate(1.668 14.064) rotate(-89.45)"/>
+      <path id="Контур_995" data-name="Контур 995" d="M49.778,48.038h-6.64v2.174" transform="translate(-30.78 -33.822)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

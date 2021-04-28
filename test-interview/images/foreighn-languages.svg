@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23.553" height="26.789" viewBox="0 0 23.553 26.789">
+  <g id="_1F5E3" data-name="1F5E3" transform="translate(-13.5 -9.097)">
+    <g id="color" transform="translate(14 9.597)">
+      <path id="Контур_848" data-name="Контур 848" d="M36.553,53.574a16.385,16.385,0,0,0-.513-3.588c-.621-2.484-2.05-4.1-5.126-4.1H19.638c-3.075,0-4.5,1.617-5.126,4.1A16.385,16.385,0,0,0,14,53.574" transform="translate(-14 -27.285)" fill="#d0cfce"/>
+      <path id="Контур_849" data-name="Контур 849" d="M36.814,20.361c-.513-1.538,1.538-1.538,1.025-2.563S36.3,16.381,36.3,15.235c0-1.538-.513-5.638-4.613-5.638C25.536,9.6,24,13.361,24,15.747c0,2.106,1.328,3.681,2.05,5.126,1.025,2.05,2.641,3.791,3.588,4.106,2.174.725,6.663,1.2,6.663-.518,0-1.025.513-1.545.513-2.05l-1.538-1.025Z" transform="translate(-18.874 -9.597)" fill="#d0cfce"/>
+    </g>
+    <g id="line" transform="translate(14 9.597)">
+      <path id="Контур_850" data-name="Контур 850" d="M36.954,20.677a6.723,6.723,0,0,1-.316-1.59s2-.365,1.209-1.4c-.444-.578-1.322-1.717-1.269-2.226.237-2.278-.788-5.866-5.4-5.866C25.538,9.6,24,13.185,24,15.747c0,2.977,1.532,4.1,2.05,5.638.739,2.19,2.563,3.588,5.638,4.1,2.022.337,5.126.513,4.817-1.538a6.908,6.908,0,0,1,.256-1.741L35.3,21.5Z" transform="translate(-18.874 -9.597)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Линия_93" data-name="Линия 93" y1="1" x2="1" transform="translate(20.276 8.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Линия_94" data-name="Линия 94" x2="1.025" transform="translate(21.528 11.218)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Линия_95" data-name="Линия 95" x2="1.025" y2="1.025" transform="translate(20.502 12.508)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Контур_851" data-name="Контур 851" d="M36.553,53.062a14.342,14.342,0,0,0-.513-3.075c-.621-2.484-3.075-4.1-6.151-4.1H21.176c-3.075,0-6.043,1.617-6.663,4.1A14.342,14.342,0,0,0,14,53.062" transform="translate(-14 -27.285)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

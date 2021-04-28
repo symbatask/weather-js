@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26.971" height="24.988" viewBox="0 0 26.971 24.988">
+  <g id="_1F4D2" data-name="1F4D2" transform="translate(-6.5 -10.512)">
+    <g id="color" transform="translate(8.983 11.012)">
+      <path id="Контур_923" data-name="Контур 923" d="M36.725,33.119a.49.49,0,0,0,.489-.491V11.5a.49.49,0,0,0-.489-.491H15.648a.49.49,0,0,0-.489.491V24.521l17.3,8.6h4.262Z" transform="translate(-13.226 -11.012)" fill="#fcea2b"/>
+      <path id="Контур_924" data-name="Контур 924" d="M37.235,32.606a.479.479,0,0,0,.479-.479V11.491a.479.479,0,0,0-.479-.479H16.6a.479.479,0,0,0-.479.479V32.606Z" transform="translate(-13.726 -11.012)" fill="#fcea2b"/>
+      <path id="Контур_925" data-name="Контур 925" d="M16.12,11.491a.479.479,0,0,1,.479-.479H37.235a.479.479,0,0,1,.479.479V32.127a.479.479,0,0,1-.479.479" transform="translate(-13.726 -11.012)" fill="#fcea2b"/>
+      <path id="Контур_926" data-name="Контур 926" d="M32.247,37.594H11.611a.479.479,0,0,1-.479-.479V16.479A.479.479,0,0,1,11.611,16H32.247a.479.479,0,0,1,.479.479V37.115A.479.479,0,0,1,32.247,37.594Z" transform="translate(-11.132 -13.606)" fill="#f1b31c"/>
+    </g>
+    <g id="line" transform="translate(7 11.012)">
+      <path id="Контур_927" data-name="Контур 927" d="M16.12,11.491a.479.479,0,0,1,.479-.479H37.235a.479.479,0,0,1,.479.479V32.127a.479.479,0,0,1-.479.479" transform="translate(-11.744 -11.012)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Контур_928" data-name="Контур 928" d="M32.247,37.594H11.611a.479.479,0,0,1-.479-.479V16.479A.479.479,0,0,1,11.611,16H32.247a.479.479,0,0,1,.479.479V37.115A.479.479,0,0,1,32.247,37.594Z" transform="translate(-9.149 -13.606)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Линия_113" data-name="Линия 113" x2="4.18" transform="translate(0 5.95)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Линия_114" data-name="Линия 114" x2="4.18" transform="translate(0 8.846)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Линия_115" data-name="Линия 115" x2="4.18" transform="translate(0 11.743)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Линия_116" data-name="Линия 116" x1="4.18" transform="translate(0 14.639)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Линия_117" data-name="Линия 117" x2="4.18" transform="translate(0 17.535)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Линия_118" data-name="Линия 118" x2="4.18" transform="translate(0 20.431)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

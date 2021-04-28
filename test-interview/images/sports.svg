@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.256" height="19.275" viewBox="0 0 19.256 19.275">
+  <g id="_1F3C9" data-name="1F3C9" transform="translate(-11.512 -11.427)">
+    <g id="color" transform="translate(12.096 12.011)">
+      <path id="Контур_600" data-name="Контур 600" d="M29.7,12.471a14.034,14.034,0,0,0-17.133,17.17l.018.018a14.034,14.034,0,0,0,17.133-17.17" transform="translate(-12.096 -12.011)" fill="#f4aa41"/>
+      <path id="Контур_601" data-name="Контур 601" d="M30.453,20.353a14.772,14.772,0,0,1-5.825,9.758A13.953,13.953,0,0,1,12.46,31.994a14.015,14.015,0,0,0,.441,2.842l.018.018a13.971,13.971,0,0,0,13.441-3.636A14.833,14.833,0,0,0,30.453,20.353Z" transform="translate(-12.322 -17.197)" fill="#e27022"/>
+    </g>
+    <g id="line" transform="translate(12.096 12.011)">
+      <path id="Контур_602" data-name="Контур 602" d="M29.7,12.471a14.034,14.034,0,0,0-17.133,17.17l.018.018a14.034,14.034,0,0,0,17.133-17.17" transform="translate(-12.096 -12.011)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Линия_67" data-name="Линия 67" x1="17.152" y2="17.152" transform="translate(0.468 0.479)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Линия_68" data-name="Линия 68" x1="1.543" y1="1.543" transform="translate(9.609 6.945)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Линия_69" data-name="Линия 69" x1="1.543" y1="1.543" transform="translate(10.947 5.607)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Линия_70" data-name="Линия 70" x1="1.543" y1="1.543" transform="translate(8.272 8.282)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Линия_71" data-name="Линия 71" x1="1.543" y1="1.543" transform="translate(6.934 9.62)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Линия_72" data-name="Линия 72" x1="1.543" y1="1.543" transform="translate(5.597 10.958)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Контур_603" data-name="Контур 603" d="M26.016,33a3.766,3.766,0,0,1,.494-1.871" transform="translate(-20.75 -23.899)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Контур_604" data-name="Контур 604" d="M37.9,44.746a3.766,3.766,0,0,1-1.889.5" transform="translate(-26.966 -32.361)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Контур_605" data-name="Контур 605" d="M45.185,36.079a3.766,3.766,0,0,1-.505,1.89" transform="translate(-32.353 -26.974)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Контур_606" data-name="Контур 606" d="M30.986,26.592a3.765,3.765,0,0,1,1.875-.513" transform="translate(-23.84 -20.757)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
